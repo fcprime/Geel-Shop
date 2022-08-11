@@ -1,0 +1,45 @@
+
+$title: #243f4d;
+$subtitle: #191919;
+$link: #8b8b8b;
+$default: #436372;
+$footer-color: #7b7b7b;
+
+
+%dmsans-700{
+  font-family: 'DMSans-Bold', sans-serif;
+  font-weight: 700;
+}
+
+%dmsans-500{
+  font-family: 'DMSans-Medium', sans-serif;
+  font-weight: 500;
+}
+
+%dmsans-400{
+  font-family: 'DMSans-Regular', sans-serif;
+  font-weight: 400;
+}
+
+%poppins-700{
+  font-family: 'Poppins-Bold', sans-serif;
+  font-weight: 700;
+}
+
+%rubik-500{
+  font-family: 'Rubik-Medium', sans-serif;
+  font-weight: 500;
+}
+
+%rubik-400{
+  font-family: 'Rubik-Regular', sans-serif;
+  font-weight: 400;
+}
+
+%checkbox-hidden {  
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  position: absolute;
+}
